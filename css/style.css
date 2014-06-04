@@ -99,3 +99,7 @@ body {
 .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
   color: #999;
 }
+.jumbotron {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
