@@ -79,6 +79,10 @@ body {
 }
 
 /* Responsive button */
+.btn {
+  white-space: normal;
+}
+
 @media (max-width: 768px) {
   .btn-responsive {
     padding:2px 4px;
